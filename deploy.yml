@@ -1,4 +1,4 @@
-•⁠  ⁠name: Deploy index.html
+- ⁠name: Deploy index.html
   hosts: ec2
   become: true
 
